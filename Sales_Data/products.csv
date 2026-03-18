@@ -1,0 +1,17 @@
+﻿product_id,product_name,category,price
+1,Phone,Electronics,674
+2,Laptop,Electronics,134
+3,Headphones,Electronics,45
+4,Tablet,Electronics,779
+5,Mixer,Home,301
+6,Vacuum,Home,270
+7,Air Purifier,Home,248
+8,Fan,Home,162
+9,Cricket Bat,Sports,774
+10,Football,Sports,124
+11,Yoga Mat,Sports,712
+12,Dumbbells,Sports,778
+13,T-Shirt,Fashion,578
+14,Jeans,Fashion,109
+15,Jacket,Fashion,624
+16,Sneakers,Fashion,452
